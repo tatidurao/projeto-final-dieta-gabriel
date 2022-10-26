@@ -1,2 +1,3 @@
-# projeto-final-dieta-gabriel
-trocar o banco e mudar os icones e nome
+# Aplicativo Narração de Histórias
+
+Rede Social para compartilhar histórias e fábulas
