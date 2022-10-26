@@ -1,3 +1,3 @@
-# Aplicativo Narração de Histórias
+# Aplicativo Dieta
 
-Rede Social para compartilhar histórias e fábulas
+Rede Social para compartilhar Dietas
